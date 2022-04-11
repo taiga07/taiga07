@@ -6,7 +6,7 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=taiga07&theme=tokyonight)
-
+(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **taiga07/taiga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
