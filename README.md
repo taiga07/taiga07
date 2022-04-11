@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga07&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taiga07&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga07&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=taiga07&theme=tokyonight&show_icons=ture" />
 </p>
 <!--
 **taiga07/taiga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
