@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=taiga07&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiga07&theme=tokyonight)
 
-![Anurag's GitHub stats(https://github-readme-stats.vercel.app/api?username=taiga07&theme=tokyonight&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiga07&theme=tokyonight&show_icons=true)
 
 <!--
 **taiga07/taiga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
